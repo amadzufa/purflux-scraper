@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project is a web scraper built with **Puppeteer** and **Node.js** that extracts product details from the Purflux Group Catalog website. It dynamically fetches data by modifying the request URL instead of interacting with the UI elements. I tried looping by selecting
-the items in the dropdown by using page.select() then page.click() on the search button. Did not manage to do that so I opt for modifying the URL.
-
+This project is a web scraper built with **Puppeteer** and **Node.js** that extracts product details from the Purflux Group Catalog website. It dynamically fetches data by modifying the request URL instead of interacting with the UI elements.
 ## Features
 
 - Uses **Puppeteer Extra with Stealth Plugin** to avoid bot detection.
