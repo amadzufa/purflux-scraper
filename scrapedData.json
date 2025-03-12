@@ -1,7 +1,7 @@
 [
   {
-    "Product_Line": "A1004",
     "IAM_PN": "A1004",
+    "Product_Line": "Air filter",
     "Dimensions": {
       "Height": "45 mm",
       "Length": "315 mm",
@@ -66,8 +66,8 @@
     ]
   },
   {
-    "Product_Line": "A1006",
     "IAM_PN": "A1006",
+    "Product_Line": "Air filter",
     "Dimensions": {
       "Height": "40 mm",
       "Length": "240 mm",
@@ -115,6 +115,114 @@
       "ACCORD VI 1.8F18A385KW(116PS/HP)01/96->09/98",
       "ACCORD VI 2F20Z1 / MA42096KW(131PS/HP)06/93->10/98",
       "ACCORD VI 2.2 VtecF22Z2110KW(150PS/HP)01/96->09/98"
+    ]
+  },
+  {
+    "IAM_PN": "A1008",
+    "Product_Line": "Air filter",
+    "Dimensions": {
+      "Height": "43 mm",
+      "Length": "315 mm",
+      "Width": "261 mm"
+    },
+    "Source": [
+      {
+        "imageURL800": "http://www.purfluxgroupcatalog.com/catalogues/res/imgs/PFX/ico-plus.jpg"
+      }
+    ],
+    "OE_PN": [
+      "A1279C",
+      "PC2441E",
+      "4416392",
+      "4500935",
+      "9161235",
+      "93187281",
+      "GAF404",
+      "1654600QAC",
+      "7701044595",
+      "8200459854",
+      "4416392",
+      "4500935",
+      "9161235",
+      "93187281",
+      "1444AH",
+      "7701044595",
+      "7701065037",
+      "8200459854",
+      "FA3026",
+      "43711371",
+      "4416392",
+      "9161235",
+      "93187281"
+    ],
+    "Vehicle_Application": [
+      "Interstar 1.9 dCi 80 1.9F9Q77460KW(80PS/HP)01/04->02/11",
+      "INTERSTAR I (X70) 1.9 dCi 80F9Q772 / F9Q77460KW(82PS/HP)04/02->08/06",
+      "INTERSTAR I (X70) 1.9 dCi 80F9Q772 / F9Q77460KW(82PS/HP)04/02->08/06",
+      "INTERSTAR I (X70) 2.2 dCiG9T72266KW(90PS/HP)04/02->08/06",
+      "INTERSTAR I (X70) 2.2 dCiG9T72266KW(90PS/HP)07/02->08/06",
+      "INTERSTAR I (X70) 2.5 dCiG9U720 / G9U724 / G9U750 / G9U75484KW(114PS/HP)04/02->08/06-->08/05",
+      "INTERSTAR I (X70) 2.5 dCiG9U720 / G9U724 / G9U750 / G9U75484KW(114PS/HP)04/02->08/06-->08/05"
+    ]
+  },
+  {
+    "IAM_PN": "A1009",
+    "Product_Line": "Air filter",
+    "Dimensions": {
+      "Height": "236 mm",
+      "Length": "137 mm",
+      "Width": "70 mm"
+    },
+    "Source": [
+      {
+        "imageURL800": "http://www.purfluxgroupcatalog.com/catalogues/res/imgs/PFX/ico-plus.jpg"
+      }
+    ],
+    "OE_PN": [
+      "1112657",
+      "1960332",
+      "19603323",
+      "YL4J9601CA",
+      "GAF188",
+      "165463S903",
+      "165467F000",
+      "165467F002",
+      "FA3102",
+      "43713041"
+    ],
+    "Vehicle_Application": [
+      "2.7 TDiCTD2774KW(101PS/HP)06/96->04/98",
+      "2.7 TDiCTD27E92KW(125PS/HP)06/96->04/98",
+      "MAVERICK 2.7 TDTD2774KW(101PS/HP)02/93->06/9605/96-->",
+      "MAVERICK 2.7 TDiCTD27E92KW(125PS/HP)07/96->12/98"
+    ]
+  },
+  {
+    "IAM_PN": "A1010",
+    "Product_Line": "Air filter",
+    "Dimensions": {
+      "Height": "65 mm",
+      "Length": "317 mm",
+      "Width": "262 mm"
+    },
+    "Source": [
+      {
+        "imageURL800": "http://www.purfluxgroupcatalog.com/catalogues/res/imgs/PFX/ico-plus.jpg"
+      }
+    ],
+    "OE_PN": [
+      "GAF001",
+      "GAF064",
+      "5001847123",
+      "5010317300",
+      "7702295409",
+      "5001847123"
+    ],
+    "Vehicle_Application": [
+      "INTERSTAR I (X70) 1.9 dCi 80F9Q772 / F9Q77460KW(82PS/HP)04/02->08/06SUPPLEMENTARY ARTICLE/INFO 2:WITH PRE-FILTER",
+      "INTERSTAR I (X70) 1.9 dCi 80F9Q772 / F9Q77460KW(82PS/HP)04/02->08/06SUPPLEMENTARY ARTICLE/INFO 2:WITH PRE-FILTER",
+      "INTERSTAR I (X70) 2.2 dCiG9T72266KW(90PS/HP)04/02->08/06SUPPLEMENTARY ARTICLE/INFO 2:WITH PRE-FILTER",
+      "INTERSTAR I (X70) 2.2 dCiG9T72266KW(90PS/HP)07/02->08/06SUPPLEMENTARY ARTICLE/INFO 2:WITH PRE-FILTER"
     ]
   }
 ]

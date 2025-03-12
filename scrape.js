@@ -116,8 +116,8 @@ const scrape = async () => {
                     .filter(text => text !== "") // Remove any empty entries
 
                 return {
-                    Product_Line: optionValue, // product line extracted from <h2>
-                    IAM_PN, // IAM part number from <h2>
+                    IAM_PN, // product line extracted from <h2>
+                    Product_Line, // IAM part number from <h2>
                     ...dimensions, // merge dimensions object
                     Source: imageURL800 ? [{ imageURL800 }] : [], // store image URL in an array
                     OE_PN, // store all extracted OE_PN values
